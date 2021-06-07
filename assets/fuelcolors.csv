@@ -1,0 +1,11 @@
+fuel,color,label
+Wind onshore,#9dc3e6,Wind onshore
+Wind offshore,#4872b8,Wind offshore
+Solar PV,#fec010,Solar PV
+Oil,#66689a,Oil
+Nuclear,#cd2027,Nuclear
+NaturalGas,#ee7e30,Natural gas
+Lignite,#986828,Lignite
+HardCoal,#000000,Hard coal
+SNG,#71ae47,SNG
+PtG,#4c8525,PtG

@@ -1,0 +1,4 @@
+ID,Node,Technology,Fuel,Capacity,Efficiency,Emission,VariableCost,Storage,Latitude,Longitude
+LN,5,Steam turbine,Lignite,800,0.9,1.018217489,0,0,51.4,12.4
+HC,6,Steam turbine,HardCoal,1000,0.9,0.906933333,5.896000403,0,50.6,8.1
+NC,9,Steam turbine,Nuclear,800,0.9,0,0,0,49.4,12.4

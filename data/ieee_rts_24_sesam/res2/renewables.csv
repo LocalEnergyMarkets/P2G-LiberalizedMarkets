@@ -1,0 +1,4 @@
+﻿unit,node,pmax,mc,technology,name
+1,2,200,0,Solar PV,Stuttgart
+2,21,200,0,Wind offshore,North Sea
+3,22,200,0,Wind onshore,Schwerin

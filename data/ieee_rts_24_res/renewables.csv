@@ -1,0 +1,7 @@
+﻿unit,node,pmax,mc,technology,name
+1,3,200,0,Solar,Stuttgart
+2,5,200,0,Solar,Ulm
+3,7,200,0,Solar,Munich
+4,16,500,0,Wind,Bremen
+5,21,500,0,Wind,North Sea
+6,23,500,0,Wind,Schwerin
